@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![@ariyibi's Holopin board](https://holopin.me/ariyibi)](https://holopin.io/@ariyibi)
+<!-- [![@ariyibi's Holopin board](https://holopin.me/ariyibi)](https://holopin.io/@ariyibi) -->
 <!--
 **Ariyibi-Baseet/Ariyibi-Baseet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
