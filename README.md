@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariyibi Baseet</h1>
-<h3 align="center">Frontend Developer | Freelancer | Web Facilitator</h3>
+<h3 align="center">Frontend Developer | Freelancer | Web Facilitator | Tech Support @TIIDELab </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyibi-baseet&label=Profile%20views&color=0e75b6&style=flat" alt="ariyibi-baseet" /> </p>
 
